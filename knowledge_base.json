@@ -1,0 +1,17 @@
+{
+    "python": "Python is a high-level programming language widely used in AI, Machine Learning, Data Science and Web Development.",
+
+    "machine learning": "Machine Learning is a branch of Artificial Intelligence that enables systems to learn from data without explicit programming.",
+
+    "deep learning": "Deep Learning is a subset of Machine Learning that uses Neural Networks with multiple layers.",
+
+    "artificial intelligence": "Artificial Intelligence is the simulation of human intelligence by machines.",
+
+    "data science": "Data Science involves extracting insights and knowledge from data using scientific methods and algorithms.",
+
+    "numpy": "NumPy is a Python library used for numerical computing and array operations.",
+
+    "pandas": "Pandas is a Python library used for data manipulation and analysis.",
+
+    "interview": "Prepare by practicing Python, SQL, Machine Learning concepts, projects and aptitude questions."
+}

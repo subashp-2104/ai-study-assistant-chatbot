@@ -1,0 +1,15 @@
+You: My name is Subash
+Bot: Nice to meet you, Subash!
+
+You: What is my name?
+Bot: Your name is Subash.
+
+You: Hello buddy!
+Bot: Sorry, I don't have information about that yet. Try asking about Python, Machine Learning, AI, Pandas or NumPy.
+
+You: My name is subash
+Bot: Nice to meet you, Subash!
+
+You: What is my name?
+Bot: Your name is Subash.
+
