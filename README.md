@@ -90,7 +90,7 @@ Bot: Your name is Subash.
 
 ## Output Screenshot
 
-![AI Study Assistant Output](Output.png)
+![AI Study Assistant Output](chatbot_0utput.png)
 
 ---
 
